@@ -94,8 +94,6 @@ body {
 }
 
 #ctt {
-    background-color: white;
-    box-shadow: 5px 15px 10px rgba(0,0,0,0.1);
     margin-top: 30px;
     width: 85%;
     height: 200px;
@@ -107,7 +105,8 @@ body {
 }
 
 .ctt-send {
-    width: 90%;
+    background-color: white;
+    width: 100%;
     height: auto;
     display: flex;
     align-items: center;
@@ -116,6 +115,7 @@ body {
     margin-bottom: 5px;
     border: 0.1px solid;
     border-radius: 10px;
+    box-shadow: 5px 15px 10px rgba(0,0,0,0.1);
 }
 
 .ctt-send img {
