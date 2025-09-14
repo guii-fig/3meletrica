@@ -9,7 +9,7 @@
     font-family: "Ubuntu", sans-serif;
 }
 body {
-    background-color: aliceblue;
+    background-color: whitesmoke;
     justify-items: center;
 }
 #head {
@@ -37,7 +37,7 @@ body {
 .icons {
     margin-left: 13px;
     margin-right: 13px;
-    background-color: aliceblue;
+    background-color: whitesmoke;
     width: 55px;
     height: 55px;
     border-radius: 100%;
@@ -52,7 +52,7 @@ body {
 }
 
 #principal {
-    background-color: aliceblue;
+    background-color: white;
     box-shadow: 5px 15px 10px rgba(0,0,0,0.1);
     margin-top: 30px;
     width: 85%;
@@ -94,7 +94,7 @@ body {
 }
 
 #ctt {
-    background-color: aliceblue;
+    background-color: white;
     box-shadow: 5px 15px 10px rgba(0,0,0,0.1);
     margin-top: 30px;
     width: 85%;
